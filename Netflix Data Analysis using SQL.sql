@@ -1,5 +1,3 @@
-SELECT * FROM netflix;
-
 -- count number of movies and TV shows
 SELECT 
 	type,
